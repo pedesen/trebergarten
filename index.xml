@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trebergarten</title>
-    <link>http://trebergarten.net/</link>
-    <description>Recent content on Trebergarten</description>
+    <title>Home on Trebergarten</title>
+    <link>http://www.trebergarten.net/</link>
+    <description>Recent content in Home on Trebergarten</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2017 17:46:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 11:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://trebergarten.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.trebergarten.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>http://trebergarten.net/posts/hello-world/</link>
-      <pubDate>Fri, 15 Dec 2017 17:46:29 +0100</pubDate>
+      <title>Walnuss Treberbrot</title>
+      <link>http://www.trebergarten.net/posts/walnuss-treberbrot/</link>
+      <pubDate>Mon, 21 May 2018 11:00:00 +0100</pubDate>
       
-      <guid>http://trebergarten.net/posts/hello-world/</guid>
-      <description>Welcome to Paddy&amp;rsquo;s Trebergarten</description>
+      <guid>http://www.trebergarten.net/posts/walnuss-treberbrot/</guid>
+      <description>Dieses Rezept könnte man als mein Standard-Treberbrot-Rezept bezeichnen. Wenn ich es mit ins Büro nehme und mit meinen Arbeitskollegen mittags eine Brotzeit mache, kommt es immer sehr gut an. Der geschmackvolle Twist sind die Walnusskerne, die dem Brot einen sehr ausgewogenen Geschmack verleihen.
+Als Bier eignet sich eigentlich jedes Pils. Mir persönlich schmeckt Pilsner Urquell am besten.
+Zutaten  500g Weizenmehl (Typ 405) 250g Biertreber 250ml Pilsener Bier 100g Walnusskerne (Bruch oder ganz) 1 Päckchen Trokenbackhefe 1 TL Salz  Zubereitung  Die Walnusskerne etwas zerkleinern.</description>
     </item>
     
   </channel>
